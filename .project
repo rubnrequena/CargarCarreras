@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Carreras</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.apollobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.apollonature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] MetalWorksDesktopTheme-source</name>
+			<type>2</type>
+			<location>D:/Work/feathers-2-beta/themes/MetalWorksDesktopTheme/source</location>
+		</link>
+		<link>
+			<name>[source path] feathers-2-beta-source</name>
+			<type>2</type>
+			<location>D:/Work/feathers-2-beta/source</location>
+		</link>
+	</linkedResources>
+</projectDescription>
